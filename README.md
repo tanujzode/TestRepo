@@ -1,4 +1,4 @@
 # TestRepo
+This is my first Git Repository.
 
-
-This is testing file
+This is testing file.
